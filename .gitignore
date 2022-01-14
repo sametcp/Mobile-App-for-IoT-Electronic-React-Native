@@ -33,7 +33,6 @@ local.properties
 # node.js
 #
 node_modules/
-public
 npm-debug.log
 yarn-error.log
 
@@ -96,7 +95,5 @@ buck-out/
 /ReactCommon/react/renderer/components/rncore/
 /packages/rn-tester/NativeModuleExample/ScreenshotManagerSpec*
 
-*.png
-*.jpg
-*.jpeg
 *.mp4
+*.png
