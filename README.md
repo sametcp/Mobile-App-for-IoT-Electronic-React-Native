@@ -11,4 +11,3 @@ https://reactnativeexample.com/mobile-app-for-iot-electronic-react-native/
 
 <img src="https://raw.githubusercontent.com/sametcp/Mobile-App-for-IoT-Electronic-React-Native/main/public/UygulamaAcik.jpg" width="260" height="520">
 <img src="https://raw.githubusercontent.com/sametcp/Mobile-App-for-IoT-Electronic-React-Native/main/public/ArduinoAcik.jpg" width="640" height="400">
-
