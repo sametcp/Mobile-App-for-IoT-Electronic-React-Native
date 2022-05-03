@@ -1,7 +1,7 @@
 # Mobile-App-for-IoT-Electronic-React-Native
 Elektronik-I IoT projesini mobil uygulama ile uzaktan yönetmek için yazılmıştır (OMÜ)
 https://reactnativeexample.com/mobile-app-for-iot-electronic-react-native/
-<br/><br/><br/>
+<br/><br/>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/sametcp/Mobile-App-for-IoT-Electronic-React-Native/main/public/Login.jpg" width="190" height="400">
